@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">Android Custom Keyboard</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+  <string name="app_name">Android Custom Keyboard</string>
+  <string name="title_home">Home</string>
+  <string name="title_dashboard">Dashboard</string>
+  <string name="title_notifications">Notifications</string>
+
+  <string name="simple_ime">Simple IME</string>
+  <string name="subtype_en_US">English (US)</string>
 </resources>
